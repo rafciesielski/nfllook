@@ -1,2 +1,4 @@
 # nfllook
-General information about nfllook project.
+More data, more insights.
+
+![nfllook system overview](nfllook.png)
